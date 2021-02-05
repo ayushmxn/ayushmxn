@@ -14,5 +14,5 @@
 - Writing English atomic essays and Hindi Triveni poetry on my [Substack](https://ayushmxn.substack.com/welcome)
 
 📫 How to reach me:
-- Email me at ayushmxn@outlook.com
+- Email me at ayushman.chhabra@mail.utoronto.ca
 - DM me on [Twitter](https://twitter.com/ayushmxn)
