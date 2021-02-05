@@ -1,18 +1,18 @@
 ### Hi there 👋
 
-<!--
-**ayushmxn/ayushmxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 I'm a senior studying Economics, Statistics and Computer Science at the University of Toronto
 
-Here are some ideas to get you started:
+🌱 I'm currently learning about:
+- statistics
+- numerical analysis
+- machine learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 My personal research interests and hobbies include:
+- Designing a programming language called Tau
+- Experimenting with wireframes for mobile browsers on [repl.it](https://repl.it/@ayushmxn/)
+- Data exploration and analysis on [Kaggle](https://www.kaggle.com/ayushmxn)
+- Writing English atomic essays and Hindi Triveni poetry on my [Substack](https://ayushmxn.substack.com/welcome)
 
-I really like to code, but I'm a perfectionist so I don't finish what I start. But when I build for others, I can follow their expectations and ship faster.
+📫 How to reach me:
+- Email me at ayushmxn@outlook.com
+- DM me on [Twitter](https://twitter.com/ayushmxn)
