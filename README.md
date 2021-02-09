@@ -8,7 +8,6 @@
 - machine learning
 
 🧠 My personal research interests and hobbies include:
-- Designing a programming language called Tau
 - Experimenting with wireframes for mobile browsers on [repl.it](https://repl.it/@ayushmxn/)
 - Data exploration and analysis on [Kaggle](https://www.kaggle.com/ayushmxn)
 - Writing English atomic essays and Hindi Triveni poetry on my [Substack](https://ayushmxn.substack.com/welcome)
