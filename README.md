@@ -8,7 +8,7 @@
 - machine learning
 
 🧠 My personal research interests and hobbies include:
-- Experimenting with wireframes for mobile browsers on [repl.it](https://repl.it/@ayushmxn/)
+- Experimenting with wireframes for mobile browsers on [repl.it](https://repl.it/@ayushmxn/wireframes)
 - Data exploration and analysis on [Kaggle](https://www.kaggle.com/ayushmxn)
 
 🙃 Things I don't expect to finish but I'm doing anyways:
