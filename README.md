@@ -15,7 +15,6 @@
 - [Jane Street Market Prediction Competition](https://www.kaggle.com/c/jane-street-market-prediction)
 - [Hungry Geese Competition](https://www.kaggle.com/c/hungry-geese)
 - [McAfee ATR Capture the Flag](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/mcafee-atr-launches-education-inspired-capture-the-flag-contest/)
-- [Ship 30 for 30 February Writing Challenge](https://ship30for30.com/)
 
 📫 How to reach me:
 - Email me at ayushman.chhabra@mail.utoronto.ca
