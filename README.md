@@ -10,6 +10,7 @@
 🧠 My personal research interests and hobbies include:
 - Experimenting with wireframes for mobile browsers on [repl.it](https://repl.it/@ayushmxn/wireframes)
 - Data exploration and analysis on [Kaggle](https://www.kaggle.com/ayushmxn)
+- Building the web browser [Sandbox](https://repl.it/@ayushmxn/sandbox)
 
 📫 How to reach me:
 - Email me at ayushman.chhabra@mail.utoronto.ca
